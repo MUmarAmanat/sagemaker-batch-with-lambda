@@ -1,3 +1,0 @@
-[submodule "custom-batch-inference"]
-	path = custom-batch-inference
-	url = https://github.com/MUmarAmanat/custom-batch-inference.git
