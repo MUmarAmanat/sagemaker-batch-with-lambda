@@ -1,3 +1,5 @@
 
 SageMakerBatchJobWithLambda.drawio
 *.png
+*.env
+*.pyc
